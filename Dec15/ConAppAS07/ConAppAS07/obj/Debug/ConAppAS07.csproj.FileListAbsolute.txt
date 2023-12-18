@@ -1,0 +1,7 @@
+K:\Phase3\ADO.NET\Assessments\Dec15\ConAppAS07\ConAppAS07\bin\Debug\ConAppAS07.exe.config
+K:\Phase3\ADO.NET\Assessments\Dec15\ConAppAS07\ConAppAS07\bin\Debug\ConAppAS07.exe
+K:\Phase3\ADO.NET\Assessments\Dec15\ConAppAS07\ConAppAS07\bin\Debug\ConAppAS07.pdb
+K:\Phase3\ADO.NET\Assessments\Dec15\ConAppAS07\ConAppAS07\obj\Debug\ConAppAS07.csproj.AssemblyReference.cache
+K:\Phase3\ADO.NET\Assessments\Dec15\ConAppAS07\ConAppAS07\obj\Debug\ConAppAS07.csproj.CoreCompileInputs.cache
+K:\Phase3\ADO.NET\Assessments\Dec15\ConAppAS07\ConAppAS07\obj\Debug\ConAppAS07.exe
+K:\Phase3\ADO.NET\Assessments\Dec15\ConAppAS07\ConAppAS07\obj\Debug\ConAppAS07.pdb
